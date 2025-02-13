@@ -1,7 +1,6 @@
-💻 Desenvolvedor Back-end | .NET
+Desenvolvedor Back-end .NET
 
-Olá! Sou um entusiasta do desenvolvimento back-end, me especializando em criar sistemas escaláveis, seguros e de alto desempenho. 
-Estou me especializando em .NET e C#, trabalho para transformar ideias em soluções tecnológicas.
+Desenvolvedor Back-end .NET, utilizando C#, SQL Server e Entity Framework. Busco me especializar na criação e integração de APIs e sistemas, implementando relacionamentos eficientes com bancos de dados e entregando soluções seguras. Priorizo práticas de Clean Code para escrever códigos claros e de fácil manutenção, além de aplicar testes unitários para garantir a confiabilidade e a qualidade das soluções desenvolvidas.
 
 O que eu Ofereço:
 
